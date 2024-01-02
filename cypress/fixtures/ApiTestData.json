@@ -1,0 +1,15 @@
+{
+    "postRequestBody": {
+        "firstName": "testFirstName",
+        "lastName": "testLastName",
+        "email": "testtest@gmail.com",
+        "dob": "2020-09-20"
+    },
+    
+    "putRequestBody": {
+        "firstName": "updFirstName",
+        "lastName": "updLastName",
+        "email": "updatedexsample@gmail.com",
+        "dob": "2023-09-20"
+    }
+}
